@@ -13,7 +13,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/" exact component={Home}/>
+        <Route path="/" exact component={SignIn}/>
         <Route path="/login" exact component={SignIn}/>
         <Route path="/dashboard" exact component={Dashboard}/>
         <Route path="/" render={ () => <NotFound/>}/>

@@ -3,7 +3,7 @@ import React from 'react';
 import {BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import { SignIn } from './pages/Login';
-import { Home } from './pages/Home';
+// import { Home } from './pages/Home';
 import { Dashboard } from './pages/Dashboard';
 
 import { NotFound } from './pages/404';

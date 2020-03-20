@@ -103,7 +103,7 @@ export const SignIn: React.FC<Props> = ({ history }) => {
                                 color="primary"
                                 className={classes.submit}
                                 onClick = { () => {
-                                    history.push("/")
+                                    history.push("/dashboard")
                                 }}
                             >
                                 Sign In

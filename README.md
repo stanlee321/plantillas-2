@@ -183,3 +183,6 @@ mutation Crear_contact($inputContacto: InputContacto ) {
 La posibilidad de abrir un Socket con el metodo `Subscription` para escuchar a cualquier field esta abierta segun las necesidades.
 Esperando que se pueda tomar en cuenta la implementacion del servidor en GraphQL, estamos abiertos a todas las sugerencias tambien que nos puedan dar de su lado.
 
+## This is a random section
+Random section
+
